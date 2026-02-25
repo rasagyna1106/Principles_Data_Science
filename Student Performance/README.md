@@ -41,7 +41,7 @@ pip install -r requirements.txt
 - **Stage 2 — Process:** Unit standardization (Height→m, Weight→kg), BMI, AgeGroup, Frailty_binary, one-hot AgeGroup.
 - **Stage 3 — Analyze:** Summary stats (mean/median/std), correlation Grip_kg vs Frailty_binary → `reports/findings.md`.
 
-**Students performance (step-by-step analysis for GitHub):**
+**Students performance:**
 
 - **Jupyter notebook:** Open `02_students_performance_analysis.ipynb` and run all cells (ingest → process → analyze). Report → `reports/findings_students.md`.
 

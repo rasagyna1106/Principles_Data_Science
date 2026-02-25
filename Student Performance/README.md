@@ -1,6 +1,6 @@
 # PDS — Data Science Workflows (Ingest → Process → Analyze)
 
-Step-by-step data science pipelines: **Frailty & Grip Strength** and **Students Performance**.
+**Frailty & Grip Strength** and **Students Performance**.
 
 ## Repository structure
 

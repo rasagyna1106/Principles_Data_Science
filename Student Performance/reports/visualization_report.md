@@ -14,7 +14,7 @@ From the box plots, the performance of male and female students is indicated in 
 
 ---
 
-## V2 — Effect of test prep on Math scores (Boxplots)
+## V2 - Effect of test prep on Math scores (Boxplots)
 
 Chart: Boxplot of math score by test preparation course (completed vs none).
 
@@ -24,7 +24,7 @@ It is seen from the box plots that the students who had test preparation scored 
 
 ---
 
-## V3 — Lunch type vs average score (Bar Chart)
+## V3 - Lunch type vs average score (Bar Chart)
 
 Chart: Grouped bar chart of mean overall average (math, reading, writing) by lunch type.
 
@@ -57,4 +57,5 @@ There is a positive correlation between math scores and reading scores in the sc
 ## Summary
 
 All plots are saved as PNGs in `reports/figures/`. From observations, it is seen that performance is influenced by gender, test prep and lunch type and subjects are highly correlated.
+
 

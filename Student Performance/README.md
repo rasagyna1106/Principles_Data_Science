@@ -135,7 +135,7 @@ From the visualizations, performance is influenced by gender, test preparation a
 
 ## Assignment alignment checklist
 
-**Q1 — Frailty workflow**  
+**Q1 - Frailty workflow**  
 - Three-stage workflow (ingest → process → analyze) in `01_frailty_workflow.ipynb`.  
 - Raw data: `data/raw/frailty_raw.csv`.  
 - Unit standardization: `Height_m`, `Weight_kg`.  
@@ -143,7 +143,7 @@ From the visualizations, performance is influenced by gender, test preparation a
 - Encoding: Frailty_binary (Y→1, N→0); one-hot AgeGroup.  
 - EDA: Summary table and correlation Grip_kg ↔ Frailty_binary in `reports/findings.md`.
 
-**Q2 — Student performance**  
+**Q2 - Student performance**  
 - Data cleaning → `StudentsPerformance_cleaned.csv`.  
 - V1: Gender boxplots (math vs reading).  
 - V2: Test prep impact on math (boxplot).  

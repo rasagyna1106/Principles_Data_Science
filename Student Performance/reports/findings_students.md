@@ -1,14 +1,14 @@
-# Question 2 — Student Performance Analysis: Findings
+# Question 2 - Student Performance Analysis: Findings
 
-The project compares student performance in **Math, Reading, and Writing** with demographic variables: **gender**, **lunch type**, and **test preparation**. Cleaned dataset: `data/processed/StudentsPerformance_cleaned.csv`.
+The project compares student performance in Math, Reading, and Writing with demographic variables: gender, lunch type, and test preparation. Cleaned dataset: `data/processed/StudentsPerformance_cleaned.csv`.
 
 ---
 
 ## Data cleaning
 
-- Column names renamed to standard names; score columns normalized to numeric type.
+- Column names renamed to standard names and score columns normalized to numeric type.
 - Missing values filled with group median (by gender, lunch, test prep) and overall median where needed.
-- Output: **StudentsPerformance_cleaned.csv** in `data/processed/`.
+- Output: StudentsPerformance_cleaned.csv in `data/processed/`.
 
 ---
 
@@ -37,13 +37,14 @@ The project compares student performance in **Math, Reading, and Writing** with 
 
 ## 3. Key relations
 
-- **Correlation (average_score, passed):** 0.7728  
-- **Correlation (average_score, test_prep_binary):** 0.2567  
+- Correlation (average_score, passed): 0.7728  
+- Correlation (average_score, test_prep_binary): 0.2567  
 
-**Interpretation:** Positive correlation with test_prep_binary suggests that completing test preparation is associated with higher average scores. Math, reading, and writing are highly correlated; performance is influenced by gender, test preparation, and lunch type.
+Interpretation: Positive correlation with test_prep_binary suggests that completing test preparation is associated with higher average scores. Math, reading and writing are highly correlated. The performance is influenced by gender, test preparation and lunch type.
 
 ---
 
 ## Summary
 
-From the analyses and visualizations (V1–V5), **performance is influenced by gender, test prep, and lunch type**, and the three subjects (math, reading, writing) are **highly correlated**. All plots are exported as PNGs in `reports/figures/` (800×600 px, 300 DPI).
+From the analyses and visualizations (V1–V5), performance is influenced by gender, test prep and lunch type and the three subjects (math, reading, writing) are highly correlated. All the plots are saved as PNGs in `reports/figures/`.
+

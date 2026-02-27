@@ -6,7 +6,7 @@
 
 ## Summary statistics (numeric columns)
 
-| Statistic | Height | Weight | Age | Grip_kg | Height_m | Weight_kg | BMI | Frailty_binary |
+| Statistic | Height | Weight | Age | Grip(kg) | Height(m) | Weight(kg) | BMI | Frailty_binary |
 |-----------|--------|--------|-----|---------|----------|-----------|-----|----------------|
 | mean      | 68.6   | 131.9  | 32.5| 26.0    | 1.7424   | 59.8288   | 19.682 | 0.4   |
 | median    | 68.45  | 136.0  | 29.5| 27.0    | 1.7386   | 61.6886   | 19.185 | 0.0   |
@@ -35,4 +35,5 @@ Interpretation: Negative correlation indicates that higher grip strength is asso
 - Correlation analysis was used to assess relationships between numerical variables.
 - Visualizations: correlation heatmap (numeric variable relationships), scatter plot (age vs. grip strength, colored by frailty), box plot (non-frail vs. frail grip strength).
 - Model evaluation (when run): 80% accuracy on test set; confusion matrix; classification report (e.g. frail class precision 67%, recall 100%).
+
 

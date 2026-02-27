@@ -30,7 +30,7 @@ Student Performance/
 
 ---
 
-# Question 1 — Grip Strength and Frailty Study (Female Participants)
+# Question 1 - Grip Strength and Frailty Study (Female Participants)
 
 ## Data information
 

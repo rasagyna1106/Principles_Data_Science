@@ -1,4 +1,4 @@
-# Question 1 — Grip Strength and Frailty Study: Findings
+# Question 1 - Grip Strength and Frailty Study: Findings
 
 **Female participants.** Data include hand grip strength (dynamometer) and participant characteristics. Variables: Height (in), Weight (lb), Age (years), Grip Strength (kg), Frailty (Y = frail, N = not frail).
 
@@ -16,16 +16,16 @@
 
 ## Correlation: Grip strength vs Frailty
 
-- **Correlation (Grip_kg, Frailty_binary):** -0.4759
+- Correlation (Grip_kg, Frailty_binary): -0.4759
 
-**Interpretation:** Negative correlation indicates that higher grip strength is associated with lower frailty (Frailty_binary 0), and lower grip strength with higher frailty (1). Increased grip strength corresponds to reduced frailty scores.
+Interpretation: Negative correlation indicates that higher grip strength is associated with lower frailty (Frailty_binary 0) and lower grip strength with higher frailty (1). Increased grip strength corresponds to reduced frailty scores.
 
 ---
 
 ## Key findings
 
-- **Grip strength and frailty:** Increased grip strength corresponds to **reduced frailty scores**.
-- **Age and grip strength:** Female grip strength **decreases with age**.
+- Grip strength and frailty: Increased grip strength corresponds to reduced frailty scores.
+- Age and grip strength: Female grip strength decreases with age.
 
 ---
 
@@ -35,3 +35,4 @@
 - Correlation analysis was used to assess relationships between numerical variables.
 - Visualizations: correlation heatmap (numeric variable relationships), scatter plot (age vs. grip strength, colored by frailty), box plot (non-frail vs. frail grip strength).
 - Model evaluation (when run): 80% accuracy on test set; confusion matrix; classification report (e.g. frail class precision 67%, recall 100%).
+

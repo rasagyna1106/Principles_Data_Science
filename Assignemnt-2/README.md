@@ -4,10 +4,6 @@
 |----------|-------|--------|-------------------------|
 | **1** | Used-car listings - missing data, units, one-hot, `Car_Age`, dplyr-style pandas | **`question1/`** | **`question1/notebooks/used_cars_assignment.ipynb`** |
 | **2** | Diabetes population - sampling n=25, BMI P98, bootstrap BP | **`question2/`** | **`question2/notebooks/diabetes_assignment.ipynb`** |
-
-- Code for **Question 1** exists **only** under **`question1/`**.
-- Code for **Question 2** exists **only** under **`question2/`**.
-- Written summaries: **`question1/docs/REPORT.md`** (Q1) and **`question2/docs/REPORT.md`** (Q2).
 ---
 
 ### Official data links

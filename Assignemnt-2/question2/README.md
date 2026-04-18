@@ -6,5 +6,5 @@
 | CSV | `data/diabetes.csv` |
 | Notebook | `notebooks/diabetes_assignment.ipynb` |
 | Written report | `docs/REPORT.md` |
-| Chart PNGs | **`figures/*.png`**|
-| Bootstrap table | **`outputs/bootstrap_bp_stats.csv`** |
+| Chart PNGs | `figures/*.png`|
+| Bootstrap table | `outputs/bootstrap_bp_stats.csv` |

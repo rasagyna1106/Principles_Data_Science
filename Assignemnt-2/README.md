@@ -2,7 +2,7 @@
 
 | Question | Topic | Folder | Notebook |
 |----------|-------|--------|-------------------------|
-| **1** | Used-car listings - missing data, units, one-hot, `Car_Age`, dplyr-style pandas | **`question1/`** | **`question1/notebooks/used_cars_assignment.ipynb`** |
+| **1** | Used-car listings - missing data, units, one-hot, `Car_Age`, pandas | **`question1/`** | **`question1/notebooks/used_cars_assignment.ipynb`** |
 | **2** | Diabetes population - sampling n=25, BMI P98, bootstrap BP | **`question2/`** | **`question2/notebooks/diabetes_assignment.ipynb`** |
 ---
 

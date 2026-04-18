@@ -13,8 +13,6 @@
 | **Q1 - Used cars** | [https://app.box.com/s/jm6pw202asu4xd3uypwtry2rqk691y1i](https://app.box.com/s/jm6pw202asu4xd3uypwtry2rqk691y1i) |
 | **Q2 - Diabetes** | [https://app.box.com/s/7qv44umhw0vnzgmoe9krfkfkv5kf2atv](https://app.box.com/s/7qv44umhw0vnzgmoe9krfkfkv5kf2atv) |
 
-Place downloads as **`question1/data/train.csv`** and **`question2/data/diabetes.csv`*.
-
 ### Setup 
 
 ```bash

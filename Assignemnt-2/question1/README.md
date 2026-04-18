@@ -7,4 +7,4 @@
 | CSV | `data/train.csv` |
 | Notebook | `notebooks/used_cars_assignment.ipynb` |
 | Written report | `docs/REPORT.md` |
-| Cleaned output | `outputs/train_cleaned.csv` (after Run All) |
+| Cleaned output | `outputs/train_cleaned.csv` |

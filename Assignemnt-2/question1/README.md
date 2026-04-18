@@ -1,4 +1,4 @@
-## Question 1 — Used cars only
+## Question 1 - Used cars only
 
 
 | Item | Location |

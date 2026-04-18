@@ -1,4 +1,4 @@
-## Question 2 — Diabetes 
+## Question 2 - Diabetes 
 
 | Item | Location |
 |------|----------|

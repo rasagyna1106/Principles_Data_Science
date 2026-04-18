@@ -2,8 +2,8 @@
 
 | Question | Topic | Folder | Notebook (primary code) |
 |----------|-------|--------|-------------------------|
-| **1** | Used-car listings — missing data, units, one-hot, `Car_Age`, dplyr-style pandas | **`question1/`** | **`question1/notebooks/used_cars_assignment.ipynb`** |
-| **2** | Diabetes population — sampling n=25, BMI P98, bootstrap BP | **`question2/`** | **`question2/notebooks/diabetes_assignment.ipynb`** |
+| **1** | Used-car listings - missing data, units, one-hot, `Car_Age`, dplyr-style pandas | **`question1/`** | **`question1/notebooks/used_cars_assignment.ipynb`** |
+| **2** | Diabetes population - sampling n=25, BMI P98, bootstrap BP | **`question2/`** | **`question2/notebooks/diabetes_assignment.ipynb`** |
 
 - Code for **Question 1** exists **only** under **`question1/`**.
 - Code for **Question 2** exists **only** under **`question2/`**.
@@ -14,8 +14,8 @@
 
 | Question | Box link |
 |----------|----------|
-| **Q1 — Used cars** | [https://app.box.com/s/jm6pw202asu4xd3uypwtry2rqk691y1i](https://app.box.com/s/jm6pw202asu4xd3uypwtry2rqk691y1i) |
-| **Q2 — Diabetes** | [https://app.box.com/s/7qv44umhw0vnzgmoe9krfkfkv5kf2atv](https://app.box.com/s/7qv44umhw0vnzgmoe9krfkfkv5kf2atv) |
+| **Q1 - Used cars** | [https://app.box.com/s/jm6pw202asu4xd3uypwtry2rqk691y1i](https://app.box.com/s/jm6pw202asu4xd3uypwtry2rqk691y1i) |
+| **Q2 - Diabetes** | [https://app.box.com/s/7qv44umhw0vnzgmoe9krfkfkv5kf2atv](https://app.box.com/s/7qv44umhw0vnzgmoe9krfkfkv5kf2atv) |
 
 Place downloads as **`question1/data/train.csv`** and **`question2/data/diabetes.csv`*.
 
@@ -25,11 +25,7 @@ Place downloads as **`question1/data/train.csv`** and **`question2/data/diabetes
 pip install -r requirements.txt
 ```
 
-Open each notebook separately and **Restart & Run All**.
-
----
-
-### Rubric snapshot
+### Rubric 
 
 **Question 1:** (a) missing values + justification (b) strip units (c) one-hot Fuel & Transmission (d) new feature e.g. `Car_Age` (e) select/filter/rename/mutate/arrange/groupby+summarize.
 
